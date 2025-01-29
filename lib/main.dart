@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(useMaterial3: true, fontFamily: 'Varela Round'),
       home: const MainScreen(
-        name: "MUHAMMAD RAFI IRFANSYAH",
+        name: "Muhammad Rafi Irfansyah",
       ),
     );
   }
